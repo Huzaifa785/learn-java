@@ -1,5 +1,7 @@
 ## Learn Java Step by Step By Huzaifa Mohammed
 
+This repository contains a step by step guide to learn Java programming language. It is a beginner friendly guide to learn Java programming language from scratch to advanced level. It contains all the basic concepts of Java programming language with examples. It also contains the installation guide of Java on your PC.
+
 ### Author
 
 - [@Huzaifa785](https://www.github.com/Huzaifa785)
