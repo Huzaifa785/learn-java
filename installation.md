@@ -126,6 +126,7 @@ javac 17
 - After installing the Java Extension Pack, restart VS Code.
 
 - To verify that the Java Extension Pack is installed correctly, open a new Java file and type the following code:
+- Make sure that the file is saved like this: HelloWorld.java
 
 ```
 public class HelloWorld {
